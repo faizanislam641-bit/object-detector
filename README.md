@@ -2,7 +2,7 @@
 
 
 
-ফোনের ক্যামেরা দিয়ে লাইভ অবজেক্ট ডিটেকশন — PC-তে প্রসেস হয়, ভয়েসে নাম বলে।
+Live object detection using the phone's camera — processing happens on the PC, and the object name is announced via voice.
 
 
 
@@ -10,15 +10,15 @@
 
 
 
-\- ✅ লাইভ ক্যামেরা (ফোনের ক্যামেরা, PC-তে প্রসেস)
+\- ✅ Live camera feed (phone camera, processed on PC)
 
-\- ✅ YOLOv8 দিয়ে ৮০+ অবজেক্ট ডিটেকশন
+\- ✅ Detection of 80+ objects using YOLOv8
 
-\- ✅ সবুজ বক্সে অবজেক্ট চিহ্নিত
+\- ✅ Objects highlighted with green bounding boxes
 
-\- ✅ বাংলা/ইংরেজি ভয়েস আউটপুট
+\- ✅ Bengali/English voice output
 
-\- ✅ FPS কাউন্টার
+\- ✅ FPS counter
 
 
 
@@ -34,7 +34,7 @@
 
 \- pyttsx3
 
-\- IP Webcam (Android অ্যাপ)
+\- IP Webcam (Android app)
 
 
 
@@ -47,4 +47,3 @@
 pip install opencv-python --no-deps
 
 pip install numpy ultralytics pyttsx3
-
